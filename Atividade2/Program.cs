@@ -1,8 +1,3 @@
-﻿//Ana Paula de Assis Waltrick - RA 2023103632
-//Ângelo Nascimento de Miranda - RA 2023100359
-//Vitor Cristiano Kluppell da Silva - RA 2023103535
-
-
 int BoasVindas(int opcaoEscolhida, int quantidadeNumeros)
 {
     Console.WriteLine("Seja bem-vindo(a) ao sorteador!");
